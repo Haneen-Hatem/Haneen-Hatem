@@ -6,21 +6,9 @@
   Welcome to my GitHub profile! I'm a passionate Front End Developer who loves building interactive and user-friendly web applications with <b>React.js</b>. I enjoy turning creative ideas into reality and constantly learning new technologies to stay ahead in the ever-evolving world of web development.
 </p>
 
----
-
 ### 🌟 Portfolio
-
 - [View My Portfolio](https://vercel.com/haneenhatems-projects)  
   Explore more of my work, projects, and web experiments on my portfolio site!
-
----
-
-### 💡 About Me
-
-- 💻 Always learning and experimenting with new front-end tools and frameworks.
-- 🎯 Focused on creating seamless user experiences and pixel-perfect designs.
-- 🌱 Open to collaboration and excited to connect with fellow developers!
-- 🏆 Driven by creativity, curiosity, and a love for technology.
 
 ### 🚀 Skills & Technologies
 
@@ -81,6 +69,15 @@
 - [Weldork](https://weldork.vercel.app/index.html)
   — Fully functional site on HTML, CSS, and JS, which provides the Best Metalcraft Solutions.<br>
   <i>Technologies:</i> JS, Animate.css, Wow.js, Bootstrap, Sass
+
+  ---
+
+### 💡 About Me
+
+- 💻 Always learning and experimenting with new front-end tools and frameworks.
+- 🎯 Focused on creating seamless user experiences and pixel-perfect designs.
+- 🌱 Open to collaboration and excited to connect with fellow developers!
+- 🏆 Driven by creativity, curiosity, and a love for technology.
 
 ---
 
