@@ -1,5 +1,3 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
 <h3 align="left">I'm Haneen Hatem</h3>
 
 <h2 align="left">Front End Developer || React.js Enthusiast</h2>
@@ -9,6 +7,20 @@
 </p>
 
 ---
+
+### 🌟 Portfolio
+
+- [View My Portfolio](https://vercel.com/haneenhatems-projects)  
+  Explore more of my work, projects, and web experiments on my portfolio site!
+
+---
+
+### 💡 About Me
+
+- 💻 Always learning and experimenting with new front-end tools and frameworks.
+- 🎯 Focused on creating seamless user experiences and pixel-perfect designs.
+- 🌱 Open to collaboration and excited to connect with fellow developers!
+- 🏆 Driven by creativity, curiosity, and a love for technology.
 
 ### 🚀 Skills & Technologies
 
@@ -72,19 +84,7 @@
 
 ---
 
-### 🌟 Portfolio
 
-- [View My Portfolio](https://vercel.com/haneenhatems-projects)  
-  Explore more of my work, projects, and web experiments on my portfolio site!
-
----
-
-### 💡 About Me
-
-- 💻 Always learning and experimenting with new front-end tools and frameworks.
-- 🎯 Focused on creating seamless user experiences and pixel-perfect designs.
-- 🌱 Open to collaboration and excited to connect with fellow developers!
-- 🏆 Driven by creativity, curiosity, and a love for technology.
 
 ---
 
