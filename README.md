@@ -79,11 +79,6 @@
 - 🌱 Open to collaboration and excited to connect with fellow developers!
 - 🏆 Driven by creativity, curiosity, and a love for technology.
 
----
-
-
-
----
 
 <!--
 ⭐️ Want your favorite projects, achievements, or a fun fact featured here? Just let me know!
