@@ -1,4 +1,4 @@
-<h3 align="left">I'm Haneen Hatem</h3>
+<h1 align="left">I'm Haneen Hatem</h3>
 
 <h2 align="left">Front End Developer || React.js Enthusiast</h2>
 
